@@ -1,0 +1,2 @@
+1.0.0:https://github.com/Skyman1701/test/blob/main/%C2%A7bAnimator%201.0.zip?raw=true
+1.1.0:https://github.com/Skyman1701/test/blob/main/%C2%A7bAnimator%201.1.zip?raw=true
